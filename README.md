@@ -5,7 +5,7 @@
 
    Jun Xie, Guojia Hou, Guodong Wang, Zhenkan Pan, "A Variational Framework for Underwater Image Dehazing and Deblurring", IEEE Transactions on Circuits and Systems for Video Technology, vol. 32, no. 6, pp. 3514-3526, 2022.
 
-   The UIQA can be downloaded from Baidu Cloud (Password：nuid) and [Google Drive](https://drive.google.com/file/d/1tamBGl07-H8KIDdL-8zphsQY6AIPHjnR/view?usp=drive_link).
+   The UIQA can be downloaded from [Baidu Cloud](https://pan.baidu.com/s/15zxvQvZ0hyAPApY8_rfHOw?pwd=UIQA) (Password：UIQA) and [Google Drive](https://drive.google.com/file/d/1tamBGl07-H8KIDdL-8zphsQY6AIPHjnR/view?usp=drive_link).
 
    It can only be used for non-comercial purpose. If you use our code, please cite the paper.
 
