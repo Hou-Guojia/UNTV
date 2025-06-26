@@ -7,8 +7,7 @@
 
    The UIQA can be downloaded from [Baidu Cloud](https://pan.baidu.com/s/15zxvQvZ0hyAPApY8_rfHOw?pwd=UIQA) (Password：UIQA) and [Google Drive](https://drive.google.com/file/d/1tamBGl07-H8KIDdL-8zphsQY6AIPHjnR/view?usp=drive_link).
 
-   It can only be used for non-comercial purpose. If you use our code, please cite the paper.
-
+   The code and dataset can only be used for non-commercial purpose. If you use our code or dataset, please cite the paper.
 1. This MATLAB code is tested on Windows 10 64bit with MATLAB 2016b. 
 
 2. Usage:
