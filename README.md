@@ -5,7 +5,7 @@
 
    Jun Xie, Guojia Hou, Guodong Wang, Zhenkan Pan, "A Variational Framework for Underwater Image Dehazing and Deblurring", IEEE Transactions on Circuits and Systems for Video Technology, vol. 32, no. 6, pp. 3514-3526, 2022.
 
-   The code can only be used for non-commercial purpose. If you use our code, please cite the paper.
+   It can only be used for non-commercial purpose. If you use our code, please cite the paper.
 1. This MATLAB code is tested on Windows 10 64bit with MATLAB 2016b. 
 
 2. Usage:
